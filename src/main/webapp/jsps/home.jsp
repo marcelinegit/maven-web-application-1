@@ -48,5 +48,4 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <p align=center>Prospect - Consultant, Training and Software Development</p>
 <p align=center><small>Copyrights 2021 by <a href="http://prospect consultnat/">prospect consultant</a> </small></p>
 
-</body>
-</html>
+
